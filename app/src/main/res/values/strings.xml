@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projectsem</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="error">Error</string>
+    <string name="error1">Error</string>
+    <string name="title_activity_streaming1">Streaming1</string>
+</resources>
